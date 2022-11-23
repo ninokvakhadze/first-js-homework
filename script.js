@@ -5,7 +5,7 @@ function exercie1 (a, b) {
   return "not equal"
 }
 }
-console.log(exercie1(2, 2)) // true
+console.log(exercie1(2, 2)) // equal
 console.log(exercie1(5, 6)) //not equal
 
 
