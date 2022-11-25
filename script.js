@@ -36,5 +36,5 @@ function calculate(a, b, operation){
   return a*b
 
 }
- console.log(calculate(6, 8, "+")) //48
+ console.log(calculate(6, 8, "*")) //48
 
